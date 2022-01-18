@@ -1,2 +1,2 @@
 # data-science
-este es el con
+este es la carpeta de proyectos de ciencia de datos 
